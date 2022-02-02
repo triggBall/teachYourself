@@ -1,10 +1,12 @@
 
 #include <iostream>
 #include "Chapter2.h"
+#include "Chapter3.h"
 
 int main()
-{
-	Chapter2(); 
+{	
+	Chapter3(); 
+	// Chapter2(); 
 	return 0;
 }
 
